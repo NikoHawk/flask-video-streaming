@@ -1,3 +1,9 @@
+
+Dockerfile from:
+https://hub.docker.com/r/mohaseeb/raspberrypi3-python-opencv/
+https://github.com/mohaseeb/raspberrypi3-opencv-docker
+
+
 flask-video-streaming
 =====================
 
